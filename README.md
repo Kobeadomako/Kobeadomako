@@ -17,9 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 p  {
     colour: blue;
-    colour sub-head: purple;
     text-align: centre;
-    font style: Italic;
 }
 
 </style>
